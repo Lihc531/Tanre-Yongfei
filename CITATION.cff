@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and the archived repository."
+title: "Reproducibility code for Tanre Yongfei-associated herb-target alignment with CAP inflammatory transcriptional modules"
+type: software
+version: 1.0.0
+date-released: 2026-09-10
+authors:
+  - family-names: Li
+    given-names: Haochen
+  - family-names: Geng
+    given-names: Jing
+  - family-names: Wang
+    given-names: Yingying
+  - family-names: Yang
+    given-names: Xiu-An
+keywords:
+  - systems pharmacology
+  - network diffusion
+  - graph attention network
+  - community-acquired pneumonia
+  - traditional Chinese medicine
+license: MIT

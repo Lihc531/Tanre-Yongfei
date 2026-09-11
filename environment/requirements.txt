@@ -1,0 +1,2 @@
+# Minimal environment for the self-contained downstream reproduction.
+-r requirements-core.txt

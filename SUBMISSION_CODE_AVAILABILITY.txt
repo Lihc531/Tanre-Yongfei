@@ -1,0 +1,3 @@
+Code availability
+
+Analysis code and redistributable derived inputs supporting the principal network-diffusion, concordance, and robustness analyses are available in a versioned public repository and archived with Zenodo [URL/DOI TO BE ADDED AFTER RELEASE]. The repository includes the final random-walk-with-restart implementation with restart probability alpha = 0.5, automated numerical verification, and documentation of upstream source-data requirements. Public GEO transcriptomic datasets are identified by accession in the repository. Prescription-level source materials and other third-party records are not redistributed where redistribution rights are unavailable; derived inputs required for downstream reproduction are provided where permitted.
