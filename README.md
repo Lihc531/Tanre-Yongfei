@@ -2,7 +2,7 @@
 
 This repository contains the analysis code and redistributable derived inputs for the manuscript:
 
-> **Preferential alignment of Tanre Yongfei-associated herb-target signals with activated inflammatory transcriptional modules in community-acquired pneumonia: a systems pharmacology analysis**
+> **Integrating prescription-derived graph learning and network diffusion to characterize Tanre Yongfei herb-target alignment with reproducible inflammatory modules in community-acquired pneumonia**
 
 The repository was curated from the authors' recovered analysis scripts and the final supplementary workbook. It is intended for peer review and public archiving (e.g., GitHub + Zenodo). The final RWR parameter choice (`alpha = 0.5`) was confirmed by the author during repository curation.
 
